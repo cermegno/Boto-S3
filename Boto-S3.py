@@ -1,7 +1,7 @@
 import boto
 
 ecs_access_key_id = '11112222333344455@ecstestdrive.emc.com'  
-ecs_secret_key = 'VaB5Fh72B7G+7JQqBjEMZ3KErt12IDFxUrPWkpnG'
+ecs_secret_key = 'AB-dontforgettoputyourownkeyhere-KNFG'
 
 #### This is the AWS S3 syntax
 ##session = boto.connect_s3(ecs_access_key_id, ecs_secret_key)
